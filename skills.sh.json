@@ -1,0 +1,10 @@
+{
+  "$schema": "https://skills.sh/schema.json",
+  "groupings": [
+    {
+      "title": "Agile",
+      "description": "Skills for writing and managing agile artifacts.",
+      "skills": ["user-story-writer"]
+    }
+  ]
+}
